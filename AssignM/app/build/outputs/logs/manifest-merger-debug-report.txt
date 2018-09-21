@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1984bc31a2d5d3d9b97e5674abcfd8c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\527c2067264cd2f4f0cad217991f4dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a1cb07f33a9912b3975a232bc4d3ca3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b9dd20f06d2567dd3ffc81ee84ba2214\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\2f1a44fcee331b1522a8e7c62e7d0646\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\3023944fae08a745f5835ff99122bd53\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\16347c855a3d3be948058e949b6782fc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\eb25ab49bcb4b674542dd7d597c6f552\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\117c2816deecf20718e17dbef1d9e3f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d4c43317d2a5580ef8db318abf21988\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8daaeaff1ff40c3e860b05b0e40b6e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3e4155e6fce0b22501bb1f0ba35b3629\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4160f587face8906dc3ee52cd8fd3e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9aaf24ad2c328f6b79df7e8af7c5bfa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\917ea85a4882ff8d2730a1676384048b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\76e05e82fa5c21649024db04f56d57bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\63294e886ce9833e5a2b91737583c335\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eb746a710b24707b2e6ff95aee9005d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5fa9000cf60f77e9c3559c4995fba5aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6abb6007fc0479d7d0dea2c1ddcd8fbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\339284f6e459847f62bf02468adab3c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b793023ec69572937be781fb46990cdc\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:6:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a1cb07f33a9912b3975a232bc4d3ca3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a1cb07f33a9912b3975a232bc4d3ca3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b9dd20f06d2567dd3ffc81ee84ba2214\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b9dd20f06d2567dd3ffc81ee84ba2214\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\16347c855a3d3be948058e949b6782fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\16347c855a3d3be948058e949b6782fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:12:9-40
+activity#accionlabs.com.quote.activity.LoginActivity
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:13:9-23:20
+	android:screenOrientation
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:14:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:21:27-74
+activity#accionlabs.com.quote.activity.MainActivity
+ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:24:9-27:58
+	android:screenOrientation
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml:24:19-56
+uses-sdk
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1984bc31a2d5d3d9b97e5674abcfd8c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1984bc31a2d5d3d9b97e5674abcfd8c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\527c2067264cd2f4f0cad217991f4dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\527c2067264cd2f4f0cad217991f4dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a1cb07f33a9912b3975a232bc4d3ca3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3a1cb07f33a9912b3975a232bc4d3ca3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b9dd20f06d2567dd3ffc81ee84ba2214\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b9dd20f06d2567dd3ffc81ee84ba2214\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\2f1a44fcee331b1522a8e7c62e7d0646\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\2f1a44fcee331b1522a8e7c62e7d0646\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\3023944fae08a745f5835ff99122bd53\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\3023944fae08a745f5835ff99122bd53\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\16347c855a3d3be948058e949b6782fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\16347c855a3d3be948058e949b6782fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\eb25ab49bcb4b674542dd7d597c6f552\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\eb25ab49bcb4b674542dd7d597c6f552\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\117c2816deecf20718e17dbef1d9e3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\117c2816deecf20718e17dbef1d9e3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d4c43317d2a5580ef8db318abf21988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d4c43317d2a5580ef8db318abf21988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8daaeaff1ff40c3e860b05b0e40b6e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8daaeaff1ff40c3e860b05b0e40b6e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3e4155e6fce0b22501bb1f0ba35b3629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3e4155e6fce0b22501bb1f0ba35b3629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4160f587face8906dc3ee52cd8fd3e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4160f587face8906dc3ee52cd8fd3e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9aaf24ad2c328f6b79df7e8af7c5bfa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9aaf24ad2c328f6b79df7e8af7c5bfa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\917ea85a4882ff8d2730a1676384048b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\917ea85a4882ff8d2730a1676384048b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\76e05e82fa5c21649024db04f56d57bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\76e05e82fa5c21649024db04f56d57bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\63294e886ce9833e5a2b91737583c335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\63294e886ce9833e5a2b91737583c335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eb746a710b24707b2e6ff95aee9005d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eb746a710b24707b2e6ff95aee9005d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5fa9000cf60f77e9c3559c4995fba5aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5fa9000cf60f77e9c3559c4995fba5aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6abb6007fc0479d7d0dea2c1ddcd8fbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6abb6007fc0479d7d0dea2c1ddcd8fbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\339284f6e459847f62bf02468adab3c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\339284f6e459847f62bf02468adab3c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b793023ec69572937be781fb46990cdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b793023ec69572937be781fb46990cdc\AndroidManifest.xml:20:5-44
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		ADDED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AssignmentGoogleLogin\AssignM\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\a6671ded59ce16316fe07a7e6cdac4c1\AndroidManifest.xml:34:13-89
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\eadaf5b5995cbf9e0f99ac6a5dc0b8d6\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2ea0ccd5790c062e0e89804620da40a9\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ravichandra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bc033666b89a0dfee172995119f17ffa\AndroidManifest.xml:24:13-58
