@@ -9,7 +9,7 @@ import retrofit2.http.GET;
 public interface ApiInterface {
 
 
-///hdhdhhdhdhsdh
+
     @GET("/qod")
     Call<QuotesResponse> getTopRatedMovies();
 }
