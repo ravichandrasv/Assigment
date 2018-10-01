@@ -12,4 +12,8 @@ public interface ApiInterface {
 
     @GET("/qod")
     Call<QuotesResponse> getTopRatedMovies();
+
+    //recent
+    @GET("/qod")
+    Call<QuotesResponse> getTopRatedMoviesDetail();
 }
