@@ -18,6 +18,7 @@ import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.Task;
 import accionlabs.com.quote.R;
 //adada
+//hhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private SignInButton mSignInButton;
     private static GoogleSignInClient mGoogleSignInClient;
