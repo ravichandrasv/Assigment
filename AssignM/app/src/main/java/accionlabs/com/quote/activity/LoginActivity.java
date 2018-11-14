@@ -17,7 +17,7 @@ import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.Task;
 import accionlabs.com.quote.R;
-
+//adada
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private SignInButton mSignInButton;
     private static GoogleSignInClient mGoogleSignInClient;
